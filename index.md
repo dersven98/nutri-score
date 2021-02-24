@@ -4,34 +4,12 @@ You can use this pictures for you!
 
 ### Images
 
-![https://dl.z8r.de/design/bundeswelle_deutschland/bundeswelle-deutschland_sign1_alpha.png]
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/z8rsvenbergner/nutri-score/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Pic1](https://dl.z8r.de/design/bundeswelle_deutschland/bundeswelle-deutschland_sign1_alpha.png)
+![Pic2](https://dl.z8r.de/design/bundeswelle_deutschland/bundeswelle-deutschland_sign1_alpha.png)
+![Pic3](https://dl.z8r.de/design/bundeswelle_deutschland/bundeswelle-deutschland_sign1_alpha.png)
+![Pic4](https://dl.z8r.de/design/bundeswelle_deutschland/bundeswelle-deutschland_sign1_alpha.png)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with this Page?
+Please [contact support](mailto:info@svenbergner.de).
